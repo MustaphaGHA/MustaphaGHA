@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://app.daily.dev/MustaphaGHA"><img align="right" src="https://github.com/MustaphaGHA/MustaphaGHA/blob/main/devcard.svg" width="400" alt="Mustapha Ghannouchi's Dev Card"/></a>
   <h1>Welcome to my GitHub Repository</h1>
-  <strong>Software developer / Opensource Contributor / Freelancer 👩🏽‍💻</strong>
+  <strong>Software Engineer | Full-Stack (Backend Heavy) | Java Spring Boot, Node.js, React (Next JS) 👩🏽‍💻</strong>
   <h6>Made with ❤️ &nbsp;</h6>
 </div>
 <br>
